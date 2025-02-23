@@ -1,5 +1,5 @@
 # Spotify_clone
 
-view website: https://spfy.netlify.app/
+# view website: https://spfy.netlify.app/
 
-#only for laptop devices
+only for laptop devices
